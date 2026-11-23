@@ -1,0 +1,3 @@
+AI_API_KEY=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
+AI_BASE_URL=https://api.openai.com/v1
+AI_MODEL=gpt-4.1-mini
